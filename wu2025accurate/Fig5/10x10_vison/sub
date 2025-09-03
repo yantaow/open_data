@@ -1,0 +1,11 @@
+#!/bin/bash
+
+python3 run.py \
+`#N:`           2   \
+`#Lx:`          10   \
+`#Ly:`          10   \
+`#h:`           1   \
+`#g:`           0.1 \
+`#dt:`          0.005 \
+`#name:`        Bp_Z2_10x10_M0_chi4_h1.0_g0.1_JNone_fL3_fR3_iter6_dt0.005j_SR1_reg1e-18_Nb1024_Ns20_exact0_seed1_VMCK2
+

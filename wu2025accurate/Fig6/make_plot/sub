@@ -1,6 +1,4 @@
 #!/bin/bash 
 
-#export PYTHONPATH=$PYTHONPATH:~/Research/Berkeley/TN:~/Research/Berkeley/TN/tenpy:/content
-
 python3 plot_figure.py  
 
