@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
     labels  = []
     for f in files:
-        if 'exact' in f:
+        if 'exact.out' in f:
             labels.append('exact')
         elif 'chi3' in f:
             labels.append('GI-PEPS D=6')
