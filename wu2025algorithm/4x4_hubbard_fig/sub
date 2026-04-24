@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#export PYTHONPATH=$PYHONPATH:~/Research/IOP/TN/tns_simple/
+
+python3 run.py \
+  `#model:`   Hubbard  \
+  `#folder:`  data_4x4
+
+
+
