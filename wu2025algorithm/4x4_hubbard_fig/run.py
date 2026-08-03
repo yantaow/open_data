@@ -7,7 +7,7 @@ import matplotlib.ticker as mticker
 import sys
 
 import setup_plot
-fontsize = 20
+fontsize = 26
 setup_plot.setup(fontsize)
 import seaborn as sns
 sns.set_palette('colorblind')
